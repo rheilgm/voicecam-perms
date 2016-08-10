@@ -1,0 +1,27 @@
+{
+  "name": "cordova-voicecam-permissions",
+  "version": "1.0.0",
+  "description": "This cordova plugin invokes permission for all the hardwares which require for a voice cam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rheilgm/voicecam-perms.git"
+  },
+  "cordova": {
+    "id": "cordova-voicecam-permissions",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "permissions",
+    "cordova",
+    "media",
+    "audio"
+  ],
+  "author": "Rheilgm",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/rheilgm/voicecam-perms/issues"
+  },
+  "homepage": "https://github.com/rheilgm/voicecam-perms#readme"
+}
